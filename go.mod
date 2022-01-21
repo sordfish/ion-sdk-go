@@ -1,4 +1,4 @@
-module github.com/pion/ion-sdk-go
+module github.com/sordfish/ion-sdk-go
 
 go 1.16
 
